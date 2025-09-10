@@ -12,3 +12,5 @@ console.log("nome:", nome)
 console.log("sobrenome:", sobrenome)
 console.log("idade:", idade)
 console.log("altura:", altura)
+
+console.log(`nome ${nome}`)
