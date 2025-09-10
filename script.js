@@ -1,5 +1,14 @@
-let nome = window.prompt("escreva seu nome:");
-let idade = window.prompt("escreva sua idade:")
-let altura = window.prompt("escreva sua altura:")
+let nome
+let sobrenome
+let idade
+let altura
 
-console.log("seu nome é ", nome, ",vc tem ", idade, " anos, e ", altura, " metros de altura")
+nome = "heithor"
+sobrenome = "borchardt"
+idade = 18
+altura = altura
+
+console.log("nome:", nome)
+console.log("sobrenome:", sobrenome)
+console.log("idade:", idade)
+console.log("altura:", altura)
